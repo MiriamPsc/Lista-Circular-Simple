@@ -1,0 +1,10 @@
+C:\Users\miria\source\repos\ListaCircularEjemplo\ListaCircularEjemplo\bin\Debug\ListaCircularEjemplo.exe.config
+C:\Users\miria\source\repos\ListaCircularEjemplo\ListaCircularEjemplo\bin\Debug\ListaCircularEjemplo.exe
+C:\Users\miria\source\repos\ListaCircularEjemplo\ListaCircularEjemplo\bin\Debug\ListaCircularEjemplo.pdb
+C:\Users\miria\source\repos\ListaCircularEjemplo\ListaCircularEjemplo\obj\Debug\ListaCircularEjemplo.csprojAssemblyReference.cache
+C:\Users\miria\source\repos\ListaCircularEjemplo\ListaCircularEjemplo\obj\Debug\ListaCircularEjemplo.Form1.resources
+C:\Users\miria\source\repos\ListaCircularEjemplo\ListaCircularEjemplo\obj\Debug\ListaCircularEjemplo.Properties.Resources.resources
+C:\Users\miria\source\repos\ListaCircularEjemplo\ListaCircularEjemplo\obj\Debug\ListaCircularEjemplo.csproj.GenerateResource.cache
+C:\Users\miria\source\repos\ListaCircularEjemplo\ListaCircularEjemplo\obj\Debug\ListaCircularEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\miria\source\repos\ListaCircularEjemplo\ListaCircularEjemplo\obj\Debug\ListaCircularEjemplo.exe
+C:\Users\miria\source\repos\ListaCircularEjemplo\ListaCircularEjemplo\obj\Debug\ListaCircularEjemplo.pdb
